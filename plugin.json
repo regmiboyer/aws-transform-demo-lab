@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aws-transform-demo-lab",
+  "version": "0.1.0",
+  "description": "Self-contained AWS Transform demo lab: custom, continuous modernization, ARA, MODA against an Isengard sandbox with a bundled 21-codebase legacy estate. Milestone-based HTML customer-demo guide and one-command reset.",
+  "author": { "name": "Ganesh Joshi Regmi (Shisir)" },
+  "license": "MIT",
+  "keywords": ["aws", "aws-transform", "modernization", "ara", "moda", "continuous-modernization", "demo", "isengard"]
+}
